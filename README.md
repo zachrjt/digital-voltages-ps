@@ -1,1 +1,1 @@
-# digital-voltages-ps
+# Dual Fixed-Voltage Power Supply with V,I Readout
